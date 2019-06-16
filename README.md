@@ -14,3 +14,7 @@ Communicator between GameServer and LPC1768 - [GitHub - jeonghunn/OmokCommunicat
 
 ## Open source license
 [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/index.html)[MIT License]  [LPC1768에서 FreeRTOS 사용해보기](https://jhrun.tistory.com/272)
+
+
+## License
+MIT Licensed
