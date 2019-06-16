@@ -16,5 +16,12 @@ Communicator between GameServer and LPC1768 - [GitHub - jeonghunn/OmokCommunicat
 [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/index.html)[MIT License]  [LPC1768에서 FreeRTOS 사용해보기](https://jhrun.tistory.com/272)
 
 
+## Getting Started
+### Prerequisites
+You must have the LPC1768 to run Omok_lpc1768.
+
+This software is built on [MCUXpressoIDE](https://www.nxp.com/support/developer-resources/software-development-tools/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE). I recommend that you use this.
+
+
 ## License
 MIT Licensed
